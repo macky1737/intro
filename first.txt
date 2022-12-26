@@ -2,4 +2,5 @@ Gitの練習をしています
 kihon
 git add
 git commit
-a
+git rm
+git status
